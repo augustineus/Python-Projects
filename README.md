@@ -9,7 +9,7 @@ Random Password Generator
   Inspired by https://www.practicepython.org/.
   Code by me.
   
-Article Scraper
+Write Article to File
   Inspired by https://www.practicepython.org/.
   Code by me.
 
